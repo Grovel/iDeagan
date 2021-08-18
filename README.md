@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ideagan&label=Profile%20views&color=0e75b6&style=flat" alt="ideagan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ideagan" alt="ideagan" /></a> </p>
-
 - 🔭 I’m currently working on [int](https://github.com/iDeagan/int)
 
 - 🌱 I’m currently learning **NodeJS and C++**
