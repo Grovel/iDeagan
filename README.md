@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS and C++**
 
-- ⚡ Fun fact **Emma is hot**
+- ⚡ Fun fact **I first started learning NodeJS 3 months ago**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
